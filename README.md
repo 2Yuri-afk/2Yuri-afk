@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2Yuri-afk
 - 👀 I’m interested in coding(sometimes)
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on making apps??
 
 <!---
