@@ -23,9 +23,6 @@ I kinda use these and some more:
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=2Yuri-afk&show_icons=true&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Yuri-afk&layout=compact&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
-
 <img src="https://i.pinimg.com/originals/c6/be/b8/c6beb86a517fada8fd8928684f5552ba.gif" width="400" />
 
 </div>
